@@ -1,2 +1,3 @@
+include ':toucher'
 include ':app'
 rootProject.name = "Toucher"
